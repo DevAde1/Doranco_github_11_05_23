@@ -1,0 +1,5 @@
+ref/
+*.psd
+*.pdf
+*.dll
+!foo.dll
